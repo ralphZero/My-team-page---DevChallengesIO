@@ -23,9 +23,9 @@ var data = [{
     'role':'developer',
     'name':'stan john'
 }];
-console.log(data[1]['name']);
+
 var row = document.querySelector('.row');
-for(var i=0; i < col, c = data.length;i++){
+for(var i=0; c = data.length, i < c;i++){
 
     next = i + 1;
     

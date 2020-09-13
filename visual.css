@@ -50,6 +50,7 @@ header h2{
 .row{
     display: grid;
     grid-gap: 1rem;
+    margin-bottom: 5vh;
 }
 
 .col{
@@ -92,6 +93,8 @@ footer{
     padding: 5vh;
     font-family: 'Monserrat';
     font-weight: 600;
+    font-size: 14px;
+    color: #808080;
 }
 .col-img-box{
     overflow: hidden;
@@ -113,6 +116,7 @@ footer{
     transform: scale(1.08);
 }
 
+
 @media screen and (max-width:700px){
     body{
         padding: 0 3vw;
@@ -131,10 +135,19 @@ footer{
     .row{
         grid-template-columns: repeat(2, 1fr); 
     } 
+
+    .col:nth-of-type(even){
+        top: 50px;
+        position: relative;
+    }
 }
 
 @media screen and (min-width: 701px){
     .row{
         grid-template-columns: repeat(3, 1fr); 
+    }
+    .col:nth-of-type(3n+2){
+        top: 50px;
+        position: relative;
     }
 }
