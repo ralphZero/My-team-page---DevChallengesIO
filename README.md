@@ -38,8 +38,9 @@
 
 ![screenshot](https://imgur.com/mKF9Cpv.jpg)
 
-- Where can I see your demo?
-- I had fun building this page, the css animation concept were a little bit difficult at first but they were proven to be very useful.
+Where can I see your demo?
+
+I had fun building this page, the css animation concept were a little bit difficult at first but they were proven to be very useful.
 
 ### Built With
 
