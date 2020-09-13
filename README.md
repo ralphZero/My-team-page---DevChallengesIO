@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://ralphzero.github.io/My-team-page---DevChallengesIO/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ralphZero/My-team-page---DevChallengesIO">
       Solution
     </a>
     <span> | </span>
@@ -37,8 +37,7 @@
 ## Overview
 
 ![screenshot](https://imgur.com/mKF9Cpv.jpg)
-
-Where can I see your demo?
+[Demo YouTube](https://youtu.be/uBW1Ox3WNTU)
 
 I had fun building this page, the css animation concept were a little bit difficult at first but they were proven to be very useful.
 
