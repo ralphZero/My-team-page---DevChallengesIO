@@ -1,0 +1,48 @@
+
+body , html{
+    min-height: 100vh;
+    margin: 0;
+}
+html{
+    padding: 0;
+}
+body{
+    padding: 0 20vw;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6vh;
+}
+.div-about{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    max-width: 50%;
+}
+
+header h2{
+    font-size: 36px;
+    font-family: 'PT Serif', serif;
+    letter-spacing: -0.045em;
+    max-width: 50%;
+    margin: 0;
+}
+
+.div-about h4{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.div-about h6{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 0;
+    max-width: 440px;
+}
